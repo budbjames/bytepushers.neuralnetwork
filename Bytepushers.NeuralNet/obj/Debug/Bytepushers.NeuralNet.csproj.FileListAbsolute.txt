@@ -1,0 +1,5 @@
+D:\Development\machinelearning\neuralnetworks\bytepushers.neuralnetwork\Bytepushers.NeuralNet.UI\Bytepushers.NeuralNet\bin\Debug\Bytepushers.NeuralNet.dll
+D:\Development\machinelearning\neuralnetworks\bytepushers.neuralnetwork\Bytepushers.NeuralNet.UI\Bytepushers.NeuralNet\bin\Debug\Bytepushers.NeuralNet.pdb
+D:\Development\machinelearning\neuralnetworks\bytepushers.neuralnetwork\Bytepushers.NeuralNet.UI\Bytepushers.NeuralNet\obj\Debug\Bytepushers.NeuralNet.csprojResolveAssemblyReference.cache
+D:\Development\machinelearning\neuralnetworks\bytepushers.neuralnetwork\Bytepushers.NeuralNet.UI\Bytepushers.NeuralNet\obj\Debug\Bytepushers.NeuralNet.dll
+D:\Development\machinelearning\neuralnetworks\bytepushers.neuralnetwork\Bytepushers.NeuralNet.UI\Bytepushers.NeuralNet\obj\Debug\Bytepushers.NeuralNet.pdb
